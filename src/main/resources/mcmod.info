@@ -1,0 +1,10 @@
+[
+    {
+      "modid": "${modid}",
+      "name": "ZombieClient",
+      "description": "ZombieClient for Minecraft 1.8.9.",
+      "version": "${version}",
+      "authorList": ["OFP", "Fyu", "spiderfrog", "Yario & Extazz", "ZombieClient contributors"],
+      "credits": "OFP, Fyu, spiderfrog, Yario & Extazz, ZombieClient contributors"
+    }
+]
